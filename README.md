@@ -1,4 +1,5 @@
 □freenoveのESP32CAMでローバーを動かすプロジェクト
+・PlatformIOのプロジェクトになっています
 
 〇Camera Web Serverへの要素追加
 Camera Web Serverのメニューに
