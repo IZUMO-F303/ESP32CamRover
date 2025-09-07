@@ -1,0 +1,2 @@
+python encode_html.py
+copy H:\document\PlatformIO\Projects\esp32CamViewer_wifi_led_MOD5\camera_index.h H:\document\PlatformIO\Projects\esp32CamViewer_wifi_led_MOD5\lib\Sketch_06.1_CameraWebServer\camera_index.h
